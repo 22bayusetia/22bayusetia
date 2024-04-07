@@ -18,3 +18,10 @@ Participants train their model similarly to the Rock, Paper, Scissors example, b
 - Understanding and implementing neural network architectures for classification tasks.
 - Grading model performance based on provided test set images.
 
+## Preview
+![Training Example](https://github.com/22bayusetia/22bayusetia/blob/main/Rock%2C%20Paper%2C%20Scissors/Preview%20RPS.png)
+
+
+
+
+
